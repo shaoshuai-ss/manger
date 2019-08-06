@@ -8,6 +8,7 @@ public class Main {
 System.out.println("hhh!");
 System.out.println("HelloWorld!");
 System.out.println("李四!");
+System.out.println("王五!");
 System.out.println("HelloWorld!");
 System.out.println("HelloWorld!");}
 }
